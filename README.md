@@ -1,4 +1,4 @@
-### ![Keith's Github](Github Header.png?raw=true "Title")
+### ![Keith's Github](https://github.com/ItsYaBoiKeef/ItsYaBoiKeef/blob/master/Github%20Header.pngraw=true "Title")
 ### 💬 My name is Keith 
 ### ✨ I'm a Computer Science Student 
 ### ⚡ Currently using github to learn and write code.
