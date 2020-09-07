@@ -1,3 +1,4 @@
+### ![Keith's Github](relative/path/to/img.jpg?raw=true "Title")
 ### 💬 My name is Keith 
 ### ✨ I'm a Computer Science Student 
 ### ⚡ Currently using github to learn and write code.
