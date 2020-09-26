@@ -1,7 +1,7 @@
 ### ![Keith's Github](https://github.com/ItsYaBoiKeef/ItsYaBoiKeef/blob/master/Github%20Header.png?raw=true "Title")
 ### 💬 My name is Keith 
-### ✨ I'm a Computer Science Student 
-### ⚡ Currently using github to learn and write code.
+### ✨ I'm a Computing student currently using GitHub to learn about object oriented programming
+
 
 
 <!--
